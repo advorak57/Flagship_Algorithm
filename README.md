@@ -10,8 +10,11 @@ The code fetches historical data for TSLA from the Interactive Brokers API and c
 The following Python packages are required to run this code:
 
 ibapi
+
 pandas
+
 numpy
+
 Usage
 
 
